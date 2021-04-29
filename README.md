@@ -20,7 +20,7 @@ where, a03-006-00-06: is image location+ image id
  and Foreign: is actual word
 <p>Image file contains one word in each image</p>
 
-![image.png](attachment:image.png)
+![test.png](attachment:test.png)
 <h3>Task done: </h3>
 <ol>
 <li>Read the parser.txt file containing the image id and the respective word for that image 
@@ -43,7 +43,7 @@ into digits</li>
 </ol>
 
 Final Result
-![image.png](attachment:image.png)
+![output.png](attachment:output.png)
 
 <h3>References:<h3>
 <ul>
