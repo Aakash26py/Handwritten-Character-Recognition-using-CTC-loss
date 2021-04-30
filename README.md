@@ -9,7 +9,7 @@
 <li>CTC_loss and CTC_decode</li>
 </ol>
 <h3>Dataset Description </h3>
-<h6><a href="https://fki.tic.heia-fr.ch/databases/iam-handwriting-database#:~:text=The%20IAM%20Handwriting%20Database%20contains,1%5D%20at%20the%20ICDAR%201999.&text=The%20IAM%2Ddatabase%20as%20of,is%20described%20in%20%5B4%5D.">Dataset: IAM Dataset</a> </h6>
+<h6><a href="https://fki.tic.heia-fr.ch/databases/iam-handwriting-database#:~:text=The%20IAM%20Handwriting%20Database%20contains,1%5D%20at%20the%20ICDAR%201999.&text=The%20IAM%2Ddatabase%20as%20of,is%20described%20in%20%5B4%5D." target="_blank">Dataset: IAM Dataset</a> </h6>
 <h6><a href="https://drive.google.com/file/d/1idCx6pr1ptmHrEHjbbiQxF4xoCZ9dNtv/view">Download word dataset here</a></h6>
 <p>You will be using the IAM dataset for training and testing your model. We will use the words 
 subset of the dataset, in which each image contains a word. The dataset contains over 8000 
